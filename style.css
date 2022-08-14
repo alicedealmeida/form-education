@@ -228,14 +228,6 @@ textarea {
 	}
 }
 
-/* tablet-landscape */
-@media(max-width: 1200px) {
-	html {
-		font-size: 56.25%;
-
-		/* 1rem = 9px; 9px/16px = 56.25% */
-	}
-}
 
 /* tablet-portrait */
 @media(max-width: 900px) {
@@ -273,5 +265,14 @@ textarea {
 
 	.container {
 		width: 80%;
+	}
+
+	.success-msg {
+		height: 25vh;
+		width: 90%;
+	}
+
+	.success-msg > p {
+		font-size: 2.7rem;
 	}
 }
