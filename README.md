@@ -7,4 +7,4 @@ Formulário de pesquisa sobre percepções acerca do ensino remoto, com versões
 # O que aprendi?
 
 - Validar e parametrizar formulários HTML
-- Uso de flexbox para tornar o formulário responsivo
+- Uso de flexbox para o layout
